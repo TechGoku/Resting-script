@@ -1,5 +1,5 @@
-# Resting-script
-Resting-script for Beldex-LWS
+# Testing-script
+Testing-script for Beldex-LWS
 
 ## This Python 3 Script is used to Test Beldex-LWS Backend API Performance 
 
